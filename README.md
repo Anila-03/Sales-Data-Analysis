@@ -5,11 +5,11 @@ A comprehensive sales analysis project using Excel, featuring data cleaning, vis
 ## Sales Report :
 **Project objectives:**
   
-**1.** Generate a [Customer Performance Report](file:///C:/Users/Anila/OneDrive/Documents/2025%20Data%20Analyst/Codebasics/8.%20Sales/Customer%20Performance%20Report.pdf) to analyze customer sales trends in three consecutive years.
+**1.** Generate a _[Customer Performance Report](file:///C:/Users/Anila/OneDrive/Documents/2025%20Data%20Analyst/Codebasics/8.%20Sales/Customer%20Performance%20Report.pdf)_ to analyze customer sales trends in three consecutive years.
   
-**2.** Conduct an in-depth [Market Performance vs Target Analysis](file:///C:/Users/Anila/OneDrive/Documents/2025%20Data%20Analyst/Codebasics/8.%20Sales/Market%20Performance%20vs%20Target.pdf) to evaluate actual sales against business goals.
+**2.** Conduct an in-depth _[Market Performance vs Target Analysis](file:///C:/Users/Anila/OneDrive/Documents/2025%20Data%20Analyst/Codebasics/8.%20Sales/Market%20Performance%20vs%20Target.pdf)_ to evaluate actual sales against business goals.
 
-**3.** Identify high-revenue products with a [Top 10 Products Report](file:///C:/Users/Anila/OneDrive/Documents/2025%20Data%20Analyst/Codebasics/8.%20Sales/Top%2010%20Products.pdf) to optimize inventory and marketing strategies.
+**3.** Identify high-revenue products with a _[Top 10 Products Report](file:///C:/Users/Anila/OneDrive/Documents/2025%20Data%20Analyst/Codebasics/8.%20Sales/Top%2010%20Products.pdf)_ to optimize inventory and marketing strategies.
 
 **Purpose of sales analytics:**
 
@@ -30,9 +30,9 @@ A comprehensive sales analysis project using Excel, featuring data cleaning, vis
 ## Financial Report :
 **Project Objectives:**
 
-**1.** Develop Profit & Loss Reports categorized by [Year](file:///C:/Users/Anila/OneDrive/Documents/2025%20Data%20Analyst/Codebasics/8.%20Sales/Profit%20&%20Loss%20report%20by%20Year.pdf), [Month](file:///C:/Users/Anila/OneDrive/Documents/2025%20Data%20Analyst/Codebasics/8.%20Sales/Profit%20&%20Loss%20report%20by%20month.pdf), and [Market](file:///C:/Users/Anila/OneDrive/Documents/2025%20Data%20Analyst/Codebasics/8.%20Sales/Profit%20&%20Loss%20report%20by%20Market.pdf) to assess financial health.
+**1.** Develop Profit & Loss Reports categorized by _[Year](file:///C:/Users/Anila/OneDrive/Documents/2025%20Data%20Analyst/Codebasics/8.%20Sales/Profit%20&%20Loss%20report%20by%20Year.pdf)_, _[Month](file:///C:/Users/Anila/OneDrive/Documents/2025%20Data%20Analyst/Codebasics/8.%20Sales/Profit%20&%20Loss%20report%20by%20month.pdf)_, and _[Market](file:///C:/Users/Anila/OneDrive/Documents/2025%20Data%20Analyst/Codebasics/8.%20Sales/Profit%20&%20Loss%20report%20by%20Market.pdf)_ to assess financial health.
 
-**2.** Evaluate [Gross Margin Analysis](file:///C:/Users/Anila/OneDrive/Documents/2025%20Data%20Analyst/Codebasics/8.%20Sales/Gross%20margin%20%25.pdf) to determine profitability across products and regions.
+**2.** Evaluate _[Gross Margin Analysis](file:///C:/Users/Anila/OneDrive/Documents/2025%20Data%20Analyst/Codebasics/8.%20Sales/Gross%20margin%20%25.pdf)_ to determine profitability across products and regions.
 
 **Purpose of Financial Analytics:**
 
